@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "student",
+      "type": "com.qzy.StudentProperties",
+      "sourceType": "com.qzy.StudentProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "student.id",
+      "type": "java.lang.String",
+      "sourceType": "com.qzy.StudentProperties"
+    },
+    {
+      "name": "student.name",
+      "type": "java.lang.String",
+      "sourceType": "com.qzy.StudentProperties"
+    }
+  ],
+  "hints": []
+}
